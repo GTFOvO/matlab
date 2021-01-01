@@ -1,0 +1,1 @@
+x = input("Pease enter x:");
